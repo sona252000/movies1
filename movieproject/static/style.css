@@ -1,0 +1,9 @@
+body{
+background-color:pink;
+}
+.card-body{
+height: 300px;
+width: 300px;
+display: inline-block;
+margin-right: 25px;
+}
